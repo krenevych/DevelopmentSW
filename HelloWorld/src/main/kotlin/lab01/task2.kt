@@ -1,4 +1,4 @@
-package lab1
+package lab01
 
 import kotlin.random.Random
 
